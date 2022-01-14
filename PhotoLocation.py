@@ -1,7 +1,7 @@
 import face_recognition as fr
 from PIL import Image
 
-photo=fr.load_image_file("ss2.png" , "RGB")     #loading the image in RGB
+photo=fr.load_image_file("ss.png" , "RGB")     #loading the image in RGB
 pil_gp=Image.fromarray(photo)                   #converting the numpy array into picture
 pil_gp.show()                                   #showing the picture
 
