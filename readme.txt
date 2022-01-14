@@ -1,6 +1,6 @@
 ** Face Recognition using Python **
 
-1. This repository contains files, each to perform a specific task.
+1. This repository contains sample files, each to perform a specific task.
 2. face_recognition library is used for face_recognition in images.
 3. PIL library is used for image processing.
 
