@@ -1,4 +1,4 @@
-<H1> Face Recognition using Python </H1>
+** Face Recognition using Python **
 
 1. This repository contains files, each to perform a specific task.
 2. face_recognition library is used for face_recognition in images.
